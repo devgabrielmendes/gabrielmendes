@@ -53,7 +53,7 @@ body {
     padding: 25rem;
 }
 
-.homeDiv1 {
+.homeDiv {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
